@@ -106,4 +106,7 @@ The application predicts:
 ## Team Members
 
 - Team Leader: N Naveesh
-- Team Members: (Add your teammates' names)
+- Team member : Kagitha Yeshwa Naga Venkata Satyanarayana 
+- Team member : Shanawaz Shaik 
+- Team member : Prasanna Nilirothu 
+- Team member : Kambham Harish
